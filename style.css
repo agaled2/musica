@@ -1,0 +1,26 @@
+body{
+margin: 0;
+text-align: center;
+}
+.title{
+    background: linear-gradient(blue,green);
+   
+}
+h1{
+    margin-top: 0;
+    background-color: blueviolet;
+    color: rgb(237, 100, 123);
+}
+img{
+    width: 200px;
+}
+h2{
+    background:linear-gradient(rgba(255, 0, 0, 0.42), rgba(0, 128, 0, 0.44), rgba(0, 0, 255, 0.309));
+    border-radius: 50px;
+}
+button{
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: darkorange;
+    color: rgb(70, 226, 43);
+}
